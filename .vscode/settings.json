@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "*.js": "javascript",
-        "limits": "cpp"
+        "limits": "cpp",
+        "xstring": "cpp"
     }
 }
